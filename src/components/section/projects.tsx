@@ -11,7 +11,7 @@ const projects = [
   {
     title: "Sistem Peminjaman Buku",
     subtitle: "Next.js, MySQL",
-    image: "/images/foto-project1.png",
+    image: "/images/foto-project3.png",
     href: "#",
   },
   {
